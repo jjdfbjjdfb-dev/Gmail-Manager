@@ -1,0 +1,22 @@
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller Build Artifacts & Executables
+build/
+dist/
+*.exe
+*.spec
+
+# Google API Credentials & Local Tokens (CRITICAL SECURITY)
+credentials.json
+token.json
+
+# Local Configuration & Environment Files
+config.json
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db

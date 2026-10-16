@@ -1,0 +1,19 @@
+{
+    "Promotions": true,
+    "Social": true,
+    "Newsletters": true,
+    "blocked_addresses": {
+        "exampleGmail6@gmail.com": "Archive + Label",
+        "Example Company <example.company@fake.com>": "Instant Trash",
+        "\"Bath & Body Works\" <bathandbodyworks@e2.bathandbodyworks.com>": "Instant Trash"
+    },
+    "blocked_keywords": {
+        "EXAMPLE KEYWORD": "Instant Trash"
+    },
+    "shield_active": true,
+    "sources": {
+        "newsletter@brand.com": "Do Nothing (Allow)",
+        "promos@store.com": "Do Nothing (Allow)",
+        "alerts@bank.com": "Instant Trash"
+    }
+}
